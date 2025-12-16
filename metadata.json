@@ -1,0 +1,5 @@
+{
+  "name": "MercadoFresco AI",
+  "description": "Una tienda de abarrotes moderna y rápida construida con React, potenciada por Gemini AI para sugerencias de recetas y compras inteligentes.",
+  "requestFramePermissions": []
+}
